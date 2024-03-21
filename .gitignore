@@ -6,6 +6,7 @@ build/
 !**/src/test/**/build/
 springjpa1-v20231204/
 *.zip
+*.identifier
 
 ### STS ###
 .apt_generated
